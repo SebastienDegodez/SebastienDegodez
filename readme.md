@@ -8,7 +8,7 @@
  <a href="https://github.com/SebastienDegodez" alt="degodez's github">
    <img src="https://img.shields.io/badge/-@sebastiendegodez-%23181717?style=flat-square&logo=github" />
  </a>
- <a src"https://www.linkedin.com/mwlite/in/sebastien-degodez-081585103" alt="degodez's linkedin">
+ <a href="https://www.linkedin.com/mwlite/in/sebastien-degodez-081585103" alt="degodez's linkedin">
    <img src="https://img.shields.io/badge/-sebastiendegodez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/fr/sebastiendegodez" />
  </a>
  <a>
