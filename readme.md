@@ -30,7 +30,7 @@
 
 Currently and since a few months, I am learning and working:
 
-![https://react.dev/](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white) ![https://terraform.io](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![https://spring.io/projects/spring-boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![https://react.dev/](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white) ![https://spring.io/projects/spring-boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 Other technologies, I've been learning and using so far:
 
