@@ -30,12 +30,10 @@
 
 Currently and since a few months, I am learning and working:
 
-![https://react.dev/](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white)
-![https://azure.microsoft.com](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![https://terraform.io](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)  
-
+![https://react.dev/](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white) ![https://terraform.io](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![https://spring.io/projects/spring-boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 Other technologies, I've been learning and using so far:
 
-![https://kubernetes.io](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![https://rancher.com](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat-square&logo=rancher&logoColor=white) ![Elastic Observability](https://img.shields.io/badge/-Elastic%20Observability-005571?style=flat-square&logo=elasticsearch) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![https://kubernetes.io](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![https://rancher.com](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat-square&logo=rancher&logoColor=white) ![Elastic Observability](https://img.shields.io/badge/-Elastic%20Observability-005571?style=flat-square&logo=elasticsearch) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![https://azure.microsoft.com](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![https://terraform.io](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 
 
